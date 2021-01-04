@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "b22f58bd-2e66-466d-b0e2-1b5177cc1357",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 235,
+  "height": 123,
+  "platformSettings": {},
+  "subMetas": {
+    "小车": {
+      "ver": "1.0.4",
+      "uuid": "dd63a7b4-d850-415c-97ee-0c48328bb802",
+      "rawTextureUuid": "b22f58bd-2e66-466d-b0e2-1b5177cc1357",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": -1,
+      "trimX": 6,
+      "trimY": 11,
+      "width": 216,
+      "height": 103,
+      "rawWidth": 235,
+      "rawHeight": 123,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
